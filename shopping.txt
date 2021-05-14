@@ -2,4 +2,5 @@ SHirt
 Deo
 cat6 cable
 GTR RAM 
-
+Heat sink
+6w speaker
